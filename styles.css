@@ -4,52 +4,75 @@ div {
     color: black;
     background-color: white;
     text-align: center;
+    font-size: 22px;
+    font-family: "Times New Roman", Times, serif;
 }
 
 p {
     color: black;
     background-color: white;
     text-align: center;
+    font-size: 22px;
+    font-family: "Times New Roman", Times, serif;
 }
 
 ul {
     color: black;
     background-color: white;
     text-align: center;
+    font-size: 22px;
+    font-family: "Times New Roman", Times, serif;
 }
 
 ol {
     color: black;
     background-color: white;
     text-align: center;
+    font-size: 22px;
+    font-family: "Times New Roman", Times, serif;
 }
 
 li {
     color: black;
     background-color: white;
     text-align: center;
+    font-size: 22px;
+    font-family: "Times New Roman", Times, serif;
 }
 
 h1 {
     color: black;
     background-color: white;
     text-align: center;
+    font-size: 22px;
+    font-family: "Times New Roman", Times, serif;
 }
 
 h2 {
     color: black;
     background-color: white;
     text-align: center;
+    font-size: 22px;
+    font-family: "Times New Roman", Times, serif;
 }
 
 h3 {
     color: black;
     background-color: white;
     text-align: center;
+    font-size: 22px;
+    font-family: "Times New Roman", Times, serif;
 }
 
 h4 {
     color: black;
     background-color: white;
     text-align: center;
+    font-size: 22px;
+    font-family: "Times New Roman", Times, serif;
+}
+
+img {
+    height: auto;
+    width: 500px;
 }
